@@ -102,6 +102,5 @@ $(document).ready(function(){
 <button id="send-btn">Send</button>
 </div>
 </div>
-
 </body>
 </html>
