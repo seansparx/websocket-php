@@ -31,6 +31,7 @@
 </head>
 <body>	
 <?php 
+ggvv
 $colours = array('007AFF','FF7000','FF7000','15E25F','CFC700','CFC700','CF1100','CF00BE','F00');
 $user_colour = array_rand($colours);
 ?>
@@ -39,7 +40,6 @@ $user_colour = array_rand($colours);
 
 <script language="javascript" type="text/javascript">  
 $(document).ready(function(){
-dfg
 	//create a new WebSocket object.
 	var wsUri = "ws://10.0.0.80:9000/demo/server.php"; 	
 	websocket = new WebSocket(wsUri); 
