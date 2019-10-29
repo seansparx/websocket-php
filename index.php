@@ -30,8 +30,7 @@
 </style>
 </head>
 <body>	
-<?php 
-xxxzzz
+<?php
 $colours = array('007AFF','FF7000','FF7000','15E25F','CFC700','CFC700','CF1100','CF00BE','F00');
 $user_colour = array_rand($colours);
 ?>
