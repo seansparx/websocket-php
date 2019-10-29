@@ -31,9 +31,8 @@
 </head>
 <body>	
 <?php 
-ggvv
 $colours = array('007AFF','FF7000','FF7000','15E25F','CFC700','CFC700','CF1100','CF00BE','F00');
-$user_colour = array_rand($colours);
+$user_colour = array_rand($colours;
 ?>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
